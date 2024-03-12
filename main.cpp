@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author Shaun Swant
+ * @author Shaun Swant (on test account)
  * @brief Creating a branch
  * @version 0.1
  * @date 2024-03-12
